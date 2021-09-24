@@ -1,5 +1,5 @@
 # SimpleUdonExamples
-Basic Udon (VRChat) examples and prefabs
+Only open up those scenes after installing the following from before, or you'll run into errors.
 
 ## Plugins
 
